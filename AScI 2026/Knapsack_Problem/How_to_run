@@ -1,4 +1,0 @@
-How to run
-type on Terminal: py <file_name>.py <instance_file_name>.kp
-Example: py sa.py s000.kp
-Don't forget to move the instance file to the same folder
